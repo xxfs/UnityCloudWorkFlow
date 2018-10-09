@@ -150,6 +150,7 @@ PlayerSettings:
   androidSupportedAspectRatio: 1
   androidMaxAspectRatio: 2.1
   applicationIdentifier:
+    Android: com.CBD.CEOVideo
     Standalone: com.CBD.CEOVideo
   buildNumber: {}
   AndroidBundleVersionCode: 1
